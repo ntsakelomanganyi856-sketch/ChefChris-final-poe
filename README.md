@@ -22,9 +22,8 @@ The app helps Chef Chris to:
 - See an overview of his menu with statistics
 
 ## Links
-- **GitHub Repository:** https://github.com/yourusername/ChefsMenuManager
-- **Video Demonstration (YouTube - Unlisted):** https://youtu.be/your-video-link-here
-- **Live Demo / Expo Snack:** https://snack.expo.dev/@yourusername/chefs-menu-manager
+- **GitHub Repository:
+- **Video Demonstration (YouTube)
 
 > Replace the links above with your actual links before submitting.
 
